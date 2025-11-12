@@ -2,6 +2,8 @@
 Este é um agente Flask para Linux que estou desenvolvendo e testando para gerenciar servidores do Counter-Strike 2 (CS2). Já criei anteriormente um agente para Windows e um painel de controle para Windows, e agora estou expandindo a solução para ambientes Linux.
 Este agente permite iniciar, parar e monitorar servidores CS2 de forma remota via API HTTP.
 
+V Verso windows 11 e 10 https://github.com/Annabel369/PanelCS2_PHP_RCON2
+
 # 🚀 Como executar
 1. 	Clone o repositório:
 
